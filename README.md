@@ -42,7 +42,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- No live
+- No live demo
 
 
 ## 💻 Getting Started
