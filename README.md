@@ -45,6 +45,7 @@
 - No live demo
 
 
+
 ## 💻 Getting Started
 
 ### You will need the following tools to get started with the project
@@ -52,7 +53,7 @@
  1. Installation of Git
  2. Installation of NPM
  3. A working browser
- 4. Internet connection
+ 4. Internet connectionear
  5. A code editor like Visual Studio Code
  6. Installation of Live Server plugging in Visual Studio Code
  7. Linters
@@ -71,7 +72,7 @@
 ### Setup:
 
 - Clone this repository to your desired folder: Clone this repo with git clone command.
-
+https://github.com/Adesina-Abiodun/HELLO-MICROVERSE
 ### Install:
 
  - Install this project with: NPM install, Create a .github/workflow folder and add linter.yml in it
