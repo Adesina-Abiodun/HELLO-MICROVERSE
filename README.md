@@ -71,6 +71,7 @@
 ### Setup:
 
 - Clone this repository to your desired folder: Clone this repo with git clone command.
+https://github.com/Adesina-Abiodun/HELLO-MICROVERSE
 
 ### Install:
 
