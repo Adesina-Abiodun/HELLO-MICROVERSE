@@ -12,7 +12,7 @@
   - [Usage](#usage)
   - [Run tests](#run-tests)
   - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+- [👥 Authors](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -23,7 +23,7 @@
 
 # 📖 [My Microverse project] <a name="hello-Microverse"></a>
 
-> This is my first microverse capstone project. I created using HTML and CSS.
+> This is my first microverse project. I created using HTML and CSS.
 
 ## 🛠 Built With
 
@@ -42,7 +42,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- 
+- No live demo
 
 
 ## 💻 Getting Started
@@ -71,6 +71,7 @@
 ### Setup:
 
 - Clone this repository to your desired folder: Clone this repo with git clone command.
+https://github.com/Adesina-Abiodun/HELLO-MICROVERSE
 
 ### Install:
 
@@ -90,13 +91,16 @@
 
 
 
-# 👥 Authors
+# 👥 Author
 
 ### Adesina Abiodun Paul
 
-# 👤 Author1
+
 
 ### GitHub: https://github.com/adesina-abiodun
+
+### LinkedIn: https://www.linkedin.com/in/abiodun-adesina-b513bb143/
+### Twitter: https://twitter.com/adesinaabiodunp
 
 
 
