@@ -99,7 +99,7 @@ https://github.com/Adesina-Abiodun/HELLO-MICROVERSE
 
 ### GitHub: https://github.com/adesina-abiodun
 
-### LinkedIn: https://www.linkedin.com/in/adesina-abiodun-paul-b513bb143
+### LinkedIn: https://www.linkedin.com/in/abiodun-adesina-b513bb143/
 ### Twitter: https://twitter.com/adesinaabiodunp
 
 
